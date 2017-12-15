@@ -1,6 +1,6 @@
 # Shoping-software-using-C
 University course project(project I)
-It was developed at maybe 2015
+It was developed maybe at 2015
 
 
 Group member : 
