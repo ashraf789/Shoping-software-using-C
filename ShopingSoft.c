@@ -6,6 +6,7 @@
 
 /*
 	@author : syed ashraf ullah
+	@Contributor : Moshiur, Dipta, Rabbani, Shamrat
 	data: 8.10.15
 	email: syedashrafullah15@gmail.com
 	subject: course project (Project 1 with C)
