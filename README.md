@@ -4,8 +4,8 @@ It was developed maybe at 2015
 
 
 Group member : 
-* Syed ashraf ullah
-* Md moshiur rahman 
-* Dipta dash 
-* FM javed mehedi shamrat
-* Golam rabbani
+* Syed Ashraf Ullah
+* A.H.M Moshiur Rahman 
+* Dipta Das 
+* F.M Javed Mehedi Shamrat
+* Golam Rabbani
