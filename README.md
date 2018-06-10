@@ -9,3 +9,7 @@ Group member
 * F.M Javed Mehedi Shamrat
 * Golam Rabbani
 
+</br>
+
+## License
+This project is licensed under the MIT License - see the [License File](LICENSE) for details
